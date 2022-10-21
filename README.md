@@ -1,6 +1,6 @@
 # OUTPUT
 
-FCFS
+# FCFS
 
 Enter no.of request:8
 Enter request sequence:
@@ -10,7 +10,8 @@ Seek Sequence is:
 95	180	34	119	11	123	62	64	
 Total head movement:644
 
-SCAN
+
+# SCAN
 
 Enter no.of request:8
 Enter request sequence:
@@ -22,7 +23,9 @@ Seek Sequence is:
 41	34	11	0	60	79	92	114	176	
 Total head movement:226
 
-C-SCAN
+
+
+# C-SCAN
 
 Enter no.of request:8
 Enter request sequence:
