@@ -37,3 +37,4 @@ Seek Sequemce is:
 60	79	92	114	176	199	0	11	34	41	
 Total head movement:389
 
+
