@@ -36,3 +36,4 @@ Enter head movement direction(low:0,high:1):1
 Seek Sequemce is:
 60	79	92	114	176	199	0	11	34	41	
 Total head movement:389
+
